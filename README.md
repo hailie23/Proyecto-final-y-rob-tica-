@@ -2,4 +2,4 @@
 
 Aquí estaremos subiendo todo lo que hagamos en nuestros proyecto...
 
-Y ya np se que más poner :| 
+Y ya no se que más poner :| 
