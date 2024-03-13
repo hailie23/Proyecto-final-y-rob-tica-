@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Downloads/pruebagiroscopio3"
+		},
+		{
+			"name": "pruebagiroscopio3",
+			"path": "../../../../../Downloads/pruebagiroscopio3/pruebagiroscopio3"
+		},
+		{
+			"name": "aaaa",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"math.h": "c"
+		}
+	}
+}
